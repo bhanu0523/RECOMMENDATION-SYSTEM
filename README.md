@@ -1,9 +1,9 @@
 # RECOMMENDATION-SYSTEM
 *COMPANY*: CODTECH IT SOLUTIONS
-*NAME*: GUNNA PAVAN 
-*INTERN ID*: CT04DN1757 
+*NAME*: DAMULURU BHANU THULASI 
+*INTERN ID*: CT06DK513 
 *DOMAIN* : MACHINE LEARNING 
-*DURATION* : 4 WEEKS 
+*DURATION* : 6 WEEKS 
 *MENTOR* : NEELA SANTOSH
 Objective
 To build a Recommendation System that predicts a user’s preferences (ratings) for items (like movies), using historical user-item interaction data.
